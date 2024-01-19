@@ -29,6 +29,6 @@ The profile now has some options to start some 3rd party apps such as CMDRs Tool
 
 2. This VA profile will **NOT** work without [EliteVA](https://github.com/Somfic/EliteVA) being installed as a plugin in VA
 
-3. This is a work in progress, so it will be updated.
+3. **This is a work in progress, so it will be updated.**
 
 4. If you have any feature requests then let me know.
