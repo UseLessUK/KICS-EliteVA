@@ -3,8 +3,12 @@ This is an updated [VoiceAttack](https://www.voiceattack.com/) profile for the R
 
 You'll need to grab the KICS profile from [here](https://github.com/mwerle/KICS) as you'll require the audio files, this VA profile doesn't have any included it's just the `vap` file for VA.
 
-## Updated VA Profile
-This updated version **requires** [EliteVA](https://github.com/Somfic/EliteVA) in order to function. All the **Key Bindings** entries have been updated to support variable keys, like so;
+## For use with the EliteVA Plugin
+This version of the KICS VA profile is for use with the EliteVA plugin, the plugin is **REQUIRED** for this profile to function.
+
+Grab the plugin from here [EliteVA](https://github.com/Somfic/EliteVA)
+
+All the **Key Bindings** entries have been updated to support variable keys, like so;
 ```
 Begin Text Compare : [EliteAPI.ToggleButtonUpInput] Has Been Set
     Press variable key(s) [EliteAPI.ToggleButtonUpInput] and hold for 0.05 seconds and release
