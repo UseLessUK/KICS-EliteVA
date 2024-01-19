@@ -31,4 +31,4 @@ The profile now has some options to start some 3rd party apps such as CMDRs Tool
 
 3. This is a work in progress, so it will be updated.
 
-4. I you have any feature requests then let me know.
+4. If you have any feature requests then let me know.
