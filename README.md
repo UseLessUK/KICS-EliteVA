@@ -20,6 +20,9 @@ End Condition
 
 This profile also requires the `common.commands` profile be included in to this profile, so don't forget to set that up once you import both profiles.
 
+## Profile first use
+Upon first use of the profile you'll be asked a series of questions, your answers will be saved so should you need to update the profile you won't need to answer the questions again.
+
 ## ED:Odyssey
 This profile has support for ED:Odyssey check out the **On Foot** category in the profile.
 

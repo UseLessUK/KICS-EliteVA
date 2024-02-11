@@ -1,5 +1,11 @@
 # Changes to KICS 4.1.2 [EliteVA]
 
+= 11 Feb 2024
+- Updated all keybinds to now include the following:
+	- Missing keybind for: (The key needs to be set in game)
+- Updated the *Current game mode* command to now tell you which version of the game you're playing Horizons or Odyssey
+- Updated various EliteAPI.Events
+
 = 30 Jan 2024
 - Added options to set various things such as;
 	- Set healer firgroup
