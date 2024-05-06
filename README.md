@@ -3,6 +3,17 @@ This is an updated [VoiceAttack](https://www.voiceattack.com/) profile for the R
 
 You'll need to grab the KICS profile from [here](https://github.com/mwerle/KICS) as you'll require the audio files, this VA profile doesn't have any included it's just the `vap` file for VA.
 
+### Notes: Installing the KICS Profile & Audio files
+After downloading and extracting the KICS Profile zip file, make sure you copy/move the `Ripley Galactic` dir **and** it's entire contents to the `VoiceAttack\Sounds\` dir. You should end up with the following dir structure;
+
+• VoiceAttack\Sounds\Ripley Galactic
+
+• VoiceAttack\Sounds\Ripley Galactic\KICS 4
+
+• VoiceAttack\Sounds\Ripley Galactic\KICS 4\Audio
+
+• VoiceAttack\Sounds\Ripley Galactic\KICS 4\Music
+
 ## For use with the EliteVA Plugin
 This version of the KICS VA profile is for use with the EliteVA plugin, the plugin is **REQUIRED** for this profile to function.
 
@@ -10,11 +21,11 @@ Grab the plugin from here [EliteVA](https://github.com/Somfic/EliteVA)
 
 All the **Key Bindings** entries have been updated to support variable keys, like so;
 ```
-Begin Text Compare : [EliteAPI.ToggleButtonUpInput] Has Been Set
-    Press variable key(s) [EliteAPI.ToggleButtonUpInput] and hold for 0.05 seconds and release
+Begin Text Compare : [EliteAPI.DeployHeatSink] Has Been Set
+    Press variable key(s) [EliteAPI.DeployHeatSink] and hold for 0.05 seconds and release
 Else
-    Write [Red] 'Missing keybind for:' to log
-    Write [Gray] '[Cooling - 1. Silent Running]' to log
+    Write [Red] 'Missing keybind for: (The key needs to be set in game)' to log
+    Write [Gray] '[Cooling - 2. Deploy Heat Sink]' to log
 End Condition
 ```
 
