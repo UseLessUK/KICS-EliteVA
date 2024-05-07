@@ -142,7 +142,7 @@ jump count on; jump count off
 
 limpet check on; limpet check off
 
-scan after jump on; scna after jump off
+scan after jump on; scan after jump off
 
 silent mode on; silent mode off
 
