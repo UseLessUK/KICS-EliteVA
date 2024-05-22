@@ -1,5 +1,8 @@
 # Changes to KICS 4.1.2 [EliteVA]
 
+- 22 May 2024
+- added a profile package, this includes both the sound files and the profile
+
 = 11 Feb 2024
 - Updated all keybinds to now include the following:
 	- Missing keybind for: (The key needs to be set in game)
