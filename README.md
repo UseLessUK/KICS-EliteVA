@@ -6,7 +6,7 @@ If you already have the Ripley Galactic KICS profile audio files installed then 
 If you **do not** have the Ripley Galactic KICS profile audio files installed then you should download and import, into VoiceAttack, the .**vax** file, this contains the audio files along with the VoiceAttack profile.
 
 ## Changes
-See the [changes](changes.md) file for a list of changes.
+See the [changes](Changes.md) file for a list of changes.
 
 ## For use with the EliteVA Plugin
 This version of the KICS VA profile is for use with the EliteVA plugin, the plugin is **REQUIRED** for this profile to function.
