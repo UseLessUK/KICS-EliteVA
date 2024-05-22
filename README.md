@@ -1,18 +1,12 @@
 # KICS 4.1.2 [EliteVA]
 This is an updated [VoiceAttack](https://www.voiceattack.com/) profile for the Ripley Galactic [KICS](https://github.com/mwerle/KICS) Voice Pack for Elite Dangerous by Arflint
 
-You'll need to grab the KICS profile from [here](https://github.com/mwerle/KICS) as you'll require the audio files, this VA profile doesn't have any included it's just the `vap` file for VoiceAttack.
+If you already have the Ripley Galactic KICS profile audio files installed then all you need to download and import, into VoiceAttack, is the .**vap** file.
 
-### Notes: Installing the KICS Profile & Audio files
-After downloading and extracting the KICS Profile zip file, make sure you copy/move the `Ripley Galactic` dir **and** it's entire contents to the `VoiceAttack\Sounds\` dir. You should end up with the following dir structure;
+If you **do not** have the Ripley Galactic KICS profile audio files installed then you should download and import, into VoiceAttack, the .**vax** file, this contains the audio files along with the VoiceAttack profile.
 
-• VoiceAttack\Sounds\Ripley Galactic
-
-• VoiceAttack\Sounds\Ripley Galactic\KICS 4
-
-• VoiceAttack\Sounds\Ripley Galactic\KICS 4\Audio
-
-• VoiceAttack\Sounds\Ripley Galactic\KICS 4\Music
+## Changes
+See the [changes](changes.md) file for a list of changes.
 
 ## For use with the EliteVA Plugin
 This version of the KICS VA profile is for use with the EliteVA plugin, the plugin is **REQUIRED** for this profile to function.
@@ -161,3 +155,5 @@ va listening on; va listening off
 3. **This is a work in progress, so it will be updated.**
 
 4. If you have any feature requests then let me know.
+
+5. If VLC Player does **not** open the music playlists and instead reports an error then you should watch [this](https://www.youtube.com/watch?v=9oqCRz7CUkQ) video on how to solve the problem.
