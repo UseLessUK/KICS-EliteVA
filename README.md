@@ -46,7 +46,7 @@ Disembark from the ship; Disembark from the SRV
 
 Prepare for take off;prepare to take off;prep for departure *[modified to now optionally check for limpets/crew member]*
 
-what cargo;chat cargo do I have
+what cargo;what cargo do I have
 
 enter FSS;enter fss Mode
 
@@ -156,4 +156,4 @@ va listening on; va listening off
 
 4. If you have any feature requests then let me know.
 
-5. If VLC Player does **not** open the music playlists and instead reports an error then you should watch [this](https://www.youtube.com/watch?v=9oqCRz7CUkQ) video on how to solve the problem.
+5. If VLC Player does **NOT** open the music playlists and instead reports an error then you should watch [this](https://www.youtube.com/watch?v=9oqCRz7CUkQ) video on how to solve the problem. Which worked for me.

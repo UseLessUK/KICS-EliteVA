@@ -1,7 +1,17 @@
 # Changes to KICS 4.1.2 [EliteVA]
 
-= 22 May 2024
-- added a profile package, this includes both the sound files and the profile
+= 22 May 2024 [Build 0.29]
+- added a build number, makes it easier to keep track of things
+- went through every command and changed all the global variables to profile ones
+- added a check to see if the VLC player was running before trying to play any music
+- added feature to auto deploy landing gear once your altitude is less than 1100 metres
+	- it will also auto retract once you're above 1000 m
+- added some more options to control options;
+	- enable/disable music
+	- logging show time (shows the current time next to any log messages)
+	- no fire zone notice on/off (lets you know when you've entered/exited the no fire zone)
+	- turn on/off VA listening
+- created a profile package, makes it easier to install the sound files AND the profiles in one go
 
 = 11 Feb 2024
 - Updated all keybinds to now include the following:
