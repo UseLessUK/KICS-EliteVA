@@ -9,7 +9,7 @@ If you **DO NOT** have the Ripley Galactic KICS profile audio files installed th
 See the [changes](Changes.md) file for a list of changes.
 
 ## For use with the EliteVA Plugin
-This version of the KICS VA profile is for use with the EliteVA plugin, the plugin is **REQUIRED** for this profile to function.
+This version of the KICS VoiceAttack profile is for use with the EliteVA plugin, the plugin is **REQUIRED** for this profile to function.
 
 Grab the plugin from here [EliteVA](https://github.com/Somfic/EliteVA)
 
