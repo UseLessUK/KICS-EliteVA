@@ -24,6 +24,7 @@ End Condition
 ```
 
 This profile also requires the `common.commands` profile be included in to this profile, so don't forget to set that up once you have both profiles imported.
+
 ![](images/profile_options_1.jpg)
 
 ## Profile first use
