@@ -1,10 +1,15 @@
 # KICS 4.1.2 [EliteVA]
 This is an updated [VoiceAttack](https://www.voiceattack.com/) profile for the Ripley Galactic [KICS](https://github.com/mwerle/KICS) Voice Pack for Elite Dangerous by Arflint
 
-If you already have the Ripley Galactic KICS profile audio files installed then all you need to download and import, into VoiceAttack, are the .**vap** files, you will need both the `Common.commands-Profile.vap` along with the `Ripley Galactic KICS 4.1.2 [Build 0.26] [EliteVA]-Profile.vap` files. Don't forget to include the common.commands in to the KICS profile via the profile options dialogue.
+If you already have the Ripley Galactic KICS profile audio files installed then all you need to download and import, into VoiceAttack, are the .**vap** files, you will need both the `Common.commands-Profile.vap` along with the `Ripley Galactic KICS 4.1.2 [Build 0.30] [EliteVA]-Profile.vap` files. Don't forget to include the common.commands in to the KICS profile via the profile options dialogue.
 
 If you **DO NOT** have the Ripley Galactic KICS profile audio files installed then you should download and import, into VoiceAttack, the .**vax** file, this contains the audio files along with the VoiceAttack profile.
 
+## Udating from a previous build number
+If you're updating from a previous build then simply **delete** the `common.commands` profile and then import the 2 updated profiles, you can also if you wish remove the previous build profile;
+	- Common.commands-Profile.vap
+	- Ripley Galactic KICS 4.1.2 [Build 0.30] [EliteVA]-Profile.vap
+	
 ## Changes
 See the [changes](Changes.md) file for a list of changes.
 

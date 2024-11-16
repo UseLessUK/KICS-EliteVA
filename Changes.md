@@ -1,5 +1,11 @@
 # Changes to KICS 4.1.2 [EliteVA]
 
+= 16 Nov 2024 [Build 0.30]
+- Tweaked the Nav Panel tab movements due to the Ascendancy Updated, affected commands;
+	- Request Docking
+- Added 2 more helper functions for Panel Tab movements
+- Added a check to make sure the common.commands profile is included within this profile
+
 = 22 May 2024 [Build 0.29]
 - added a build number, makes it easier to keep track of things
 - went through every command and changed all the global variables to profile ones
@@ -21,9 +27,9 @@
 
 = 30 Jan 2024
 - Added options to set various things such as;
-	- Set healer firgroup
+	- Set healer firegroup
 	- healer trigger
-	- ship composition scanner firgroup
+	- ship composition scanner firegroup
 	- ship composition scanner trigger
 	- ship data link scanner firegroup
 	- ship data link scanner trigger
