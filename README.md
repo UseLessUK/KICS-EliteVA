@@ -7,6 +7,7 @@ If you **DO NOT** have the Ripley Galactic KICS profile audio files installed th
 
 ## Udating from a previous build number
 If you're updating from a previous build then simply **delete** the `common.commands` profile and then import the 2 updated profiles, you can also if you wish remove the previous build profile;
+
 	- Common.commands-Profile.vap
 	- Ripley Galactic KICS 4.1.2 [Build 0.30] [EliteVA]-Profile.vap
 	
