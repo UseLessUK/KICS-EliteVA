@@ -1,5 +1,12 @@
 # Changes to KICS 4.1.2 [EliteVA]
 
+= 18 Nove 2024 [Build 0,30]
+- Changed 2 commands in the common.commands profile;
+	- Log.in.VA
+	- Log.in.VA.Multiline
+	
+	Added an inline function to both commands to handle all the print to log stuff ... made over 60 lines of code redundant
+
 = 16 Nov 2024 [Build 0.30]
 - Tweaked the Nav Panel tab movements due to the Ascendancy Updated, affected commands;
 	- Request Docking
