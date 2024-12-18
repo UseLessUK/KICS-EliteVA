@@ -1,6 +1,9 @@
 # Changes to KICS 4.1.2 [EliteVA]
 
-= 18 Nove 2024 [Build 0,30]
+= 18 Dec 2024 [Build 0.31]
+- fixed a filename error so now the saved data should be loaded now once saved after first boot of profile
+
+= 18 Nov 2024 [Build 0,30]
 - Changed 2 commands in the common.commands profile;
 	- Log.in.VA
 	- Log.in.VA.Multiline
