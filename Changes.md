@@ -1,7 +1,7 @@
 # Changes to KICS 4.1.2 [EliteVA]
 
 = 19 Dec 2024 [Build 0.31]
-- Expanded on the changes made yesterday to include more error checking. Now if an error occurs command processing will be stopped (the profile won't complete the startup process)
+- Expanded on the changes made yesterday to include more error checking. Now if an error occurs command processing will be stopped.
 
 = 18 Dec 2024 [Build 0.31]
 - fixed a filename error so now the saved data should be loaded now once saved after first boot of profile
