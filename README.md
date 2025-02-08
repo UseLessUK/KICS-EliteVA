@@ -158,10 +158,15 @@ va listening on; va listening off
 
 	• Click the Spanner (Wrench) icon on the lower right of the VA main window, make the General tab active and check (tick) `Enable Plugin Support` on the right and then click OK. You'll need to restart VA.
 
-2. This VA profile will **NOT** work without [EliteVA](https://github.com/Somfic/EliteVA) being installed as a plugin in VA
+2. This VA profile will **NOT** work without;
 
-3. **This is a work in progress, so it will be updated.**
+	• [EliteVA](https://github.com/Somfic/EliteVA) being installed as a plugin in VoiceAttack
+	• The *common.commands* profile being included in to this one.
 
-4. If you have any feature requests then let me know.
+3. If you have any feature requests then let me know.
 
-5. If VLC Player does **NOT** open the music playlists and instead reports an error then you should watch [this](https://www.youtube.com/watch?v=9oqCRz7CUkQ) video on how to solve the problem. Which worked for me.
+4. If VLC Player does **NOT** open the music playlists and instead reports an error then you should watch [this](https://www.youtube.com/watch?v=9oqCRz7CUkQ) video on how to solve the problem. Which worked for me.
+
+5. This profile will **STOP** VA listening upon startup (this can be changed as there's an option to do so), there's an over ride word "ripley" setup so each command needs to start with `ripley` so for example to deploy the landing gear you'd use `ripley deploy landing gear`.
+
+6. **This is a work in progress, so it will be updated.**
