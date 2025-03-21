@@ -1,7 +1,7 @@
 # KICS 4.1.2 [EliteVA]
 This is an updated [VoiceAttack](https://www.voiceattack.com/) profile for the Ripley Galactic [KICS](https://github.com/mwerle/KICS) Voice Pack for Elite Dangerous by Arflint
 
-If you already have the Ripley Galactic KICS profile audio files installed then all you need to download and import, into VoiceAttack, are the .**vap** files, you will need both the `Common.commands-Profile.vap` along with the `Ripley Galactic KICS 4.1.2 [Build 0.31] [EliteVA]-Profile.vap` files. Don't forget to include the common.commands in to the KICS profile via the profile options dialogue.
+If you already have the Ripley Galactic KICS profile audio files installed then all you need to download and import, into VoiceAttack, are the .**vap** files, you will need both the `Common.commands-Profile.vap` along with the `Ripley Galactic KICS 4.1.2 [Build 0.32] [EliteVA]-Profile.vap` files. Don't forget to include the common.commands in to the KICS profile via the profile options dialogue.
 
 If you **DO NOT** have the Ripley Galactic KICS profile audio files installed then you should download and import, into VoiceAttack, the .**vax** file, this contains the audio files along with the VoiceAttack profile.
 
@@ -9,7 +9,7 @@ If you **DO NOT** have the Ripley Galactic KICS profile audio files installed th
 If you're updating from a previous build then simply **delete** the `common.commands` profile and then import the 2 updated profiles, you can also if you wish remove the previous build profile;
 
 	- Common.commands-Profile.vap
-	- Ripley Galactic KICS 4.1.2 [Build 0.31] [EliteVA]-Profile.vap
+	- Ripley Galactic KICS 4.1.2 [Build 0.32] [EliteVA]-Profile.vap
 	
 ## Changes
 See the [changes](Changes.md) file for a list of changes.
@@ -34,7 +34,15 @@ This profile also requires the `common.commands` profile be included in to this 
 ![](images/profile_options_1.jpg)
 
 ## Profile first use
-Upon first use of the profile you'll be asked a series of questions, your answers will be saved so should you need to update the profile you won't need to answer the questions again.
+*Upon first use of the profile you'll be asked a series of questions, your answers will be saved so should you need to update the profile you won't need to answer the questions again.*
+
+The above is no longer applicable as I've included some default data which the profile will load when it starts up.
+
+You'll still be asked for your Inara/EDSM IDs.
+
+If you wish to change anything then you'll need to manually run the following commands in order to update the stored data to use the triggers and fire groups you prefer.
+
+![](images/profile_options_2.jpg)
 
 ## ED:Odyssey
 This profile has support for ED:Odyssey check out the **On Foot** category in the profile.
