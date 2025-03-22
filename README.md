@@ -169,6 +169,7 @@ va listening on; va listening off
 2. This VA profile will **NOT** work without;
 
 	• [EliteVA](https://github.com/Somfic/EliteVA) being installed as a plugin in VoiceAttack
+	
 	• The *common.commands* profile being included in to this one.
 
 3. If you have any feature requests then let me know.
