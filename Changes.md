@@ -4,6 +4,10 @@
 - Updated the c# function in common.commands that checks to see if VA is running as Admin to work on either VA v1 or v2
 - Profile now outputs various version info upon 1st load.
 - Modified various commands to include some appropriate QoL improvements.
+- Added a few options;
+	- No fire zone notice on/off
+	- Star scoopable notice on/off
+	- Station service check on/off (only checks for IF and Rescue service)
 
 = 19 December 2024 [Build 0.31]
 - Expanded on the changes made yesterday to include more error checking. Now if an error occurs command processing will be stopped.
