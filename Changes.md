@@ -1,5 +1,10 @@
 # KICS 4.1.2 [EliteVA] profile changes.
 
+= 23 March 2025 [B 0.32]
+- Shortened the [Build 0.32] part of the profile name to [B 0.32]
+- Fixed a couple of bugs in some commands that the QA department missed (OK I missed 'em)
+- improved a command by adding spoken feedback
+
 = 21 March 2025 [Build 0.32]
 - Updated the c# function in common.commands that checks to see if VA is running as Admin to work on either VA v1 or v2
 - Profile now outputs various version info upon 1st load.
