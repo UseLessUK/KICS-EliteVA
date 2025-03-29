@@ -1,5 +1,8 @@
 # KICS 4.1.2 [EliteVA] profile changes.
 
+= 29 March 2025 [B 0.33]
+- Fixed a bug in the startup command
+
 = 23 March 2025 [B 0.32]
 - Shortened the [Build 0.32] part of the profile name to [B 0.32]
 - Fixed a couple of bugs in some commands that the QA department missed (OK I missed 'em)
