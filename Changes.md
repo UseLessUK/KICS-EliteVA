@@ -1,5 +1,8 @@
 # KICS 4.1.2 [EliteVA] profile changes.
 
+= 29 July 2025 [B 0.34]
+- Solved the annoying "landing gear" message and the deployment/retraction of the landing gear when leaving a planetary base.
+
 = 29 March 2025 [B 0.33]
 - Fixed a bug in the startup command
 
